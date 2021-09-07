@@ -53,3 +53,11 @@ Global stil dosyası ve css moduller hakkında bilgi verildi.
 
 Head bileşeni ile uygulamaya meta veriler eklenmesi gösterildi.
 Metaverileri override(üzerine yazmak) için `key` property kullanımı gösterildi.
+
+## Video 7 - build+start ve dev script farkı
+
+Bu videoda geliştirme ortamında (`yarn dev`) tüm sayfaları server side rendering(**SSR**) ile oluştururken production ortamına geçerken varsayılan olarak tüm sayfaların static generation(**SSG**) şeklinde `HTML` olarak build anında oluşturulduğu gösterildi.
+
+## Video 8 - UseEffect ile veri çekme
+
+Bu videoda `useEffect` ile veri çekildi. Bu veri çekme işlemini yapan sayfanın otomatik olarak Static Generation ile üretildiğini ama veriyi bu oluşturma anında kullanamadığı gösterildi.
