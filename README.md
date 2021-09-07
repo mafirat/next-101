@@ -31,3 +31,9 @@ Sayfa ve video yapısı bu videoda anlatıldı.
 
 > pages dizini altındaki dosya ve dizinler oluşturdukları hiyerarşik yapıya göre next tarafından otomatik olarak route olarak kullanılır.
 > _Dosyaların `page` olarak tanınmaı için `export default` içermelidir._
+
+## Video 3 - Link
+
+Sayfalar arası yönlendirme için link kullanımı gösterildi.
+
+> NextJS Link bileşeni kullanıldı.
