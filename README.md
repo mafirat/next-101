@@ -37,3 +37,7 @@ Sayfa ve video yapısı bu videoda anlatıldı.
 Sayfalar arası yönlendirme için link kullanımı gösterildi.
 
 > NextJS Link bileşeni kullanıldı.
+
+## Video 4 - \_app.js
+
+Bu videoda uygulamanın başlangıç nokyası olan `_app.js` dosyasının kullanımına örnek olması için Layout bileşeni eklendi.
