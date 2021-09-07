@@ -1,0 +1,23 @@
+.link {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fe5f55;
+    margin-right: 5px;
+    transition: all 0.5;
+  }
+  .link:hover {
+    color: #b8d8d8;
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 15px;
+  
+    border-bottom: 2px solid #fe5f55;
+    background-color: #293241;
+    margin-bottom: 35px;
+  }

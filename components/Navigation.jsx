@@ -1,16 +1,21 @@
 import Link from "next/link";
+import style from "./Nav.module.css";
 export const Navigation = () => {
   return (
-    <div>
+    <div className={style.nav}>
       <Link href="/">
-        <a>Mainpage</a>
+        <a className={style.link}>NEXT-101</a>
       </Link>
-      <Link href="/about">
-        <a>about</a>
-      </Link>
-      <Link href="/about/contact">
-        <a>contact</a>
-      </Link>
+
+      <div>
+        <Link href="/about">
+          <a className={style.link}>About</a>
+        </Link>
+
+        <Link href="/about/contact">
+          <a className={style.link}>Contact</a>
+        </Link>
+      </div>
     </div>
   );
 };

@@ -41,3 +41,10 @@ Sayfalar arası yönlendirme için link kullanımı gösterildi.
 ## Video 4 - \_app.js
 
 Bu videoda uygulamanın başlangıç nokyası olan `_app.js` dosyasının kullanımına örnek olması için Layout bileşeni eklendi.
+
+## Video 5.1 & 5.2 - Style
+
+Global stil dosyası ve css moduller hakkında bilgi verildi.
+
+- global stil dosyası `_app.js` içerisinde import edilmeli.
+- CSS-Module için dosya isminde **ModuleName**`.module.css` kuralı ile oluşturulmalı.
