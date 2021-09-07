@@ -61,3 +61,7 @@ Bu videoda geliştirme ortamında (`yarn dev`) tüm sayfaları server side rende
 ## Video 8 - UseEffect ile veri çekme
 
 Bu videoda `useEffect` ile veri çekildi. Bu veri çekme işlemini yapan sayfanın otomatik olarak Static Generation ile üretildiğini ama veriyi bu oluşturma anında kullanamadığı gösterildi.
+
+## Video 9 - getStaticProps
+
+Bu videoda sunucu tarafında işlemler yapıp ilgili bileşene veri göndermemize yarayan ve **static generation** tetikleyen `getStaticProps` metodu gösterildi.
