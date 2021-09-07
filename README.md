@@ -48,3 +48,8 @@ Global stil dosyası ve css moduller hakkında bilgi verildi.
 
 - global stil dosyası `_app.js` içerisinde import edilmeli.
 - CSS-Module için dosya isminde **ModuleName**`.module.css` kuralı ile oluşturulmalı.
+
+## Video 6 - Head
+
+Head bileşeni ile uygulamaya meta veriler eklenmesi gösterildi.
+Metaverileri override(üzerine yazmak) için `key` property kullanımı gösterildi.
