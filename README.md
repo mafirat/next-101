@@ -24,3 +24,10 @@ Production sunucusunu başlatmak için sırası ile:
 yarn build
 yarn dev
 ```
+
+## Video 2 - Sayfalar ve Route
+
+Sayfa ve video yapısı bu videoda anlatıldı.
+
+> pages dizini altındaki dosya ve dizinler oluşturdukları hiyerarşik yapıya göre next tarafından otomatik olarak route olarak kullanılır.
+> _Dosyaların `page` olarak tanınmaı için `export default` içermelidir._
