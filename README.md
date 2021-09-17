@@ -65,3 +65,8 @@ Bu videoda `useEffect` ile veri çekildi. Bu veri çekme işlemini yapan sayfan�
 ## Video 9 - getStaticProps
 
 Bu videoda sunucu tarafında işlemler yapıp ilgili bileşene veri göndermemize yarayan ve **static generation** tetikleyen `getStaticProps` metodu gösterildi.
+
+## Video 10 - Dinamik Route
+
+Bu videoda dinamik sayfa isimlerinin nasıl oluşturulduğu gösterildi.
+Ufak CSS düzenlemeleri yapıldı.

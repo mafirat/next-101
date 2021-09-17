@@ -19,3 +19,17 @@ a {
   font-size: large;
   padding: 0 64px;
 }
+
+.wrapper {
+  width: 65%;
+  margin: auto;
+}
+
+.user-link {
+  margin-bottom: 10px;
+  cursor: pointer;
+  padding: 5px;
+}
+.user-link:hover {
+  border-left: 10px solid #fe5f55;
+}

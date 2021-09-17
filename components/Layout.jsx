@@ -6,11 +6,7 @@ export const Layout = (props) => {
     <div>
       <Head>
         <title>Next-101</title>
-        <meta
-          property="og:title"
-          content="Next - 101"
-          key="og-title"
-        />
+        <meta property="og:title" content="Next - 101" key="og-title" />
         <meta
           property="og:description"
           content="Next 101 tutorial project"
@@ -22,7 +18,7 @@ export const Layout = (props) => {
         /> */}
       </Head>
       <Navigation />
-      {props.children}
+      <div className="wrapper">{props.children}</div>
     </div>
   );
 };

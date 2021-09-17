@@ -8,6 +8,9 @@ export const Navigation = () => {
       </Link>
 
       <div>
+        <Link href="/users">
+          <a className={style.link}>Users</a>
+        </Link>
         <Link href="/about">
           <a className={style.link}>About</a>
         </Link>

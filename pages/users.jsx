@@ -1,6 +1,8 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
 import Head from "next/head";
+import Link from "next/link";
+
 const Users = ({ users }) => {
   return (
     <div>
@@ -8,7 +10,12 @@ const Users = ({ users }) => {
         <title>{users[0].name}</title>
       </Head>
       {users.map((u) => (
-        <h1 key={u.id}>{u.name}</h1>
+        <Link key={u.id} href={`/users/${u.id}`}>
+          <div className="user-link">
+            <h2>{u.name}</h2>
+            <h4>@{u.username}</h4>
+          </div>
+        </Link>
       ))}
     </div>
   );
