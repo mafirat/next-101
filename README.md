@@ -76,3 +76,8 @@ Ufak CSS düzenlemeleri yapıldı.
 Bir sayfa SSG ile oluşturulacağı zaman dinamik olarak oluşturulacak sayfa bilgisinin `getStaticPaths` metodu içerisinde nasıl oluşturulduğu ve `getStaticProps` metoduna nasıl aktarıldığı gösterildi.
 
 Kaç sayfa oluşturulacağı ve ilgili parametreye göre kullanıcı bilgisinin API tarafından alınıp, kullanılması gösterildi.
+
+## Video 12 - ServerSideRendering SSR - `getServerSideProps`
+
+Bu videoda istek aninda ilgili sayfaların sunucu tarafında oluşturulması anlatıldı.
+Hem sabit hem dinamik route için örnekler gösterildi.
