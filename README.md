@@ -70,3 +70,9 @@ Bu videoda sunucu tarafında işlemler yapıp ilgili bileşene veri göndermemiz
 
 Bu videoda dinamik sayfa isimlerinin nasıl oluşturulduğu gösterildi.
 Ufak CSS düzenlemeleri yapıldı.
+
+## Video 11 - Dinamik Route ile SSG ve `getStaticPaths`
+
+Bir sayfa SSG ile oluşturulacağı zaman dinamik olarak oluşturulacak sayfa bilgisinin `getStaticPaths` metodu içerisinde nasıl oluşturulduğu ve `getStaticProps` metoduna nasıl aktarıldığı gösterildi.
+
+Kaç sayfa oluşturulacağı ve ilgili parametreye göre kullanıcı bilgisinin API tarafından alınıp, kullanılması gösterildi.
